@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/refint/Conditionals.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-if/obj/Debug/net8.0/ref/Conditionals.dll

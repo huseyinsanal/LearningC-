@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/bin/Debug/net8.0/Parsing
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/refint/Parsing.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Parsing/obj/Debug/net8.0/ref/Parsing.dll

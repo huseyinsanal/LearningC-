@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/bin/Debug/net8.0/MultiValues
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/bin/Debug/net8.0/MultiValues.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/bin/Debug/net8.0/MultiValues.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/bin/Debug/net8.0/MultiValues.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/bin/Debug/net8.0/MultiValues.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/refint/MultiValues.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/MultiValues.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/MultiValues/obj/Debug/net8.0/ref/MultiValues.dll

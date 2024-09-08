@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/refint/ForLoops.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/ForLoops/obj/Debug/net8.0/ref/ForLoops.dll

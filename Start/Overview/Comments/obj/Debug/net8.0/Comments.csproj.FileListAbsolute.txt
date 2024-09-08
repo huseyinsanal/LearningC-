@@ -1,0 +1,15 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/bin/Debug/net8.0/Comments
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/bin/Debug/net8.0/Comments.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/bin/Debug/net8.0/Comments.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/bin/Debug/net8.0/Comments.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/bin/Debug/net8.0/Comments.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/bin/Debug/net8.0/Comments.xml
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/refint/Comments.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/Comments.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Comments/obj/Debug/net8.0/ref/Comments.dll

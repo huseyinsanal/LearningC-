@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/bin/Debug/net8.0/Exceptions
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/bin/Debug/net8.0/Exceptions.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/bin/Debug/net8.0/Exceptions.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/bin/Debug/net8.0/Exceptions.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/bin/Debug/net8.0/Exceptions.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/refint/Exceptions.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/Exceptions.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Exceptions/obj/Debug/net8.0/ref/Exceptions.dll

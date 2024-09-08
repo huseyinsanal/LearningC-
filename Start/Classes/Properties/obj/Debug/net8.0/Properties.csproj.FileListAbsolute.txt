@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/bin/Debug/net8.0/Properties
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/bin/Debug/net8.0/Properties.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/bin/Debug/net8.0/Properties.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/bin/Debug/net8.0/Properties.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/bin/Debug/net8.0/Properties.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/refint/Properties.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/Properties.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Properties/obj/Debug/net8.0/ref/Properties.dll

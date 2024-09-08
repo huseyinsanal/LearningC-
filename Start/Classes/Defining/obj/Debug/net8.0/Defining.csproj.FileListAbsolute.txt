@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/bin/Debug/net8.0/Defining
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/bin/Debug/net8.0/Defining.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/bin/Debug/net8.0/Defining.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/bin/Debug/net8.0/Defining.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/bin/Debug/net8.0/Defining.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/refint/Defining.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/Defining.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Defining/obj/Debug/net8.0/ref/Defining.dll

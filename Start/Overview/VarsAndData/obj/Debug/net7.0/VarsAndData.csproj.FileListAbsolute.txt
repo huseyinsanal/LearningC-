@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/refint/VarsAndData.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/VarsAndData/obj/Debug/net7.0/ref/VarsAndData.dll

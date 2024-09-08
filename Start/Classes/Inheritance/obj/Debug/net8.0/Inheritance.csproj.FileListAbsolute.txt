@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Classes/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

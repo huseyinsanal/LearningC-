@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/bin/Debug/net8.0/Strings
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/bin/Debug/net8.0/Strings.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/bin/Debug/net8.0/Strings.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/bin/Debug/net8.0/Strings.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/bin/Debug/net8.0/Strings.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/refint/Strings.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Interpolation/obj/Debug/net8.0/ref/Strings.dll

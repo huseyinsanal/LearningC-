@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/bin/Debug/net8.0/Builder
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/bin/Debug/net8.0/Builder.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Strings/Builder/obj/Debug/net8.0/ref/Builder.dll

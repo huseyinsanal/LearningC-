@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/bin/Debug/net8.0/Operators
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/bin/Debug/net8.0/Operators.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/bin/Debug/net8.0/Operators.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/bin/Debug/net8.0/Operators.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/bin/Debug/net8.0/Operators.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/refint/Operators.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Overview/Operators/obj/Debug/net8.0/ref/Operators.dll

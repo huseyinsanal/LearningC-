@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/refint/ConditionalOps.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ref/ConditionalOps.dll

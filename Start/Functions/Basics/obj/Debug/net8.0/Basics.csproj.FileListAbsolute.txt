@@ -1,0 +1,14 @@
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/bin/Debug/net8.0/Basics
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/bin/Debug/net8.0/Basics.deps.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/bin/Debug/net8.0/Basics.runtimeconfig.json
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/bin/Debug/net8.0/Basics.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/bin/Debug/net8.0/Basics.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.AssemblyInfoInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.AssemblyInfo.cs
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.csproj.CoreCompileInputs.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/refint/Basics.dll
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.pdb
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/Basics.genruntimeconfig.cache
+/Users/huseyinsanal/Desktop/ExerciseFiles/Start/Functions/Basics/obj/Debug/net8.0/ref/Basics.dll
